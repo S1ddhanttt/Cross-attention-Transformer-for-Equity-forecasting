@@ -1,0 +1,1 @@
+Multimodal PyTorch Transformer fusing 60-day market time-series with SEC 8-K text embeddings via Cross-Attention for alpha generation. Includes Point-in-Time vector retrieval to prevent data leakage and VectorBT dollar-neutral backtesting.
